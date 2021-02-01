@@ -1,0 +1,198 @@
+// Copy from Postman
+[
+    {
+        "key": "Content-Type",
+        "value": "application/json; charset=UTF-8",
+        "description": "Indicates the resource's media type.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Indicates the resource's media type."
+    },
+    {
+        "key": "Vary",
+        "value": "Origin",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Vary",
+        "value": "X-Origin",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Vary",
+        "value": "Referer",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Content-Encoding",
+        "value": "gzip",
+        "description": "An entity header indicating the encoding method applied to the entity body.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "An entity header indicating the encoding method applied to the entity body."
+    },
+    {
+        "key": "Date",
+        "value": "Mon, 01 Feb 2021 03:35:36 GMT",
+        "description": "A general header containing the date and time the message was sent.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "A general header containing the date and time the message was sent."
+    },
+    {
+        "key": "Server",
+        "value": "ESF",
+        "description": "Contains information about how the server handles requests.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Contains information about how the server handles requests."
+    },
+    {
+        "key": "Cache-Control",
+        "value": "private",
+        "description": "A general header specifying rules for caching in both requests and responses. Rules for length of cache are measured in seconds.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "A general header specifying rules for caching in both requests and responses. Rules for length of cache are measured in seconds."
+    },
+    {
+        "key": "X-XSS-Protection",
+        "value": "0",
+        "description": "Stops pages from loading when they detect reflected cross-site scripting (XSS) attacks.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Stops pages from loading when they detect reflected cross-site scripting (XSS) attacks."
+    },
+    {
+        "key": "X-Frame-Options",
+        "value": "SAMEORIGIN",
+        "description": "Used to avoid clickjacking attacks by making sure their content is not embedded into other sites.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Used to avoid clickjacking attacks by making sure their content is not embedded into other sites."
+    },
+    {
+        "key": "X-Content-Type-Options",
+        "value": "nosniff",
+        "description": "Can be used to opt out of MIME type sniffing a response away from the declared content-type.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Can be used to opt out of MIME type sniffing a response away from the declared content-type."
+    },
+    {
+        "key": "Alt-Svc",
+        "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+        "description": "Custom header",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Custom header"
+    },
+
+
+
+    {
+        "key": "Content-Type",
+        "value": "application/json; charset=UTF-8",
+        "description": "Indicates the resource's media type.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Indicates the resource's media type."
+    },
+    {
+        "key": "Vary",
+        "value": "Origin",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Vary",
+        "value": "X-Origin",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Vary",
+        "value": "Referer",
+        "description": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Determines how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one."
+    },
+    {
+        "key": "Content-Encoding",
+        "value": "gzip",
+        "description": "An entity header indicating the encoding method applied to the entity body.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "An entity header indicating the encoding method applied to the entity body."
+    },
+    {
+        "key": "Date",
+        "value": "Mon, 01 Feb 2021 01:04:08 GMT",
+        "description": "A general header containing the date and time the message was sent.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "A general header containing the date and time the message was sent."
+    },
+    {
+        "key": "Server",
+        "value": "ESF",
+        "description": "Contains information about how the server handles requests.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Contains information about how the server handles requests."
+    },
+    {
+        "key": "Cache-Control",
+        "value": "private",
+        "description": "A general header specifying rules for caching in both requests and responses. Rules for length of cache are measured in seconds.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "A general header specifying rules for caching in both requests and responses. Rules for length of cache are measured in seconds."
+    },
+    {
+        "key": "X-XSS-Protection",
+        "value": "0",
+        "description": "Stops pages from loading when they detect reflected cross-site scripting (XSS) attacks.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Stops pages from loading when they detect reflected cross-site scripting (XSS) attacks."
+    },
+    {
+        "key": "X-Frame-Options",
+        "value": "SAMEORIGIN",
+        "description": "Used to avoid clickjacking attacks by making sure their content is not embedded into other sites.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Used to avoid clickjacking attacks by making sure their content is not embedded into other sites."
+    },
+    {
+        "key": "X-Content-Type-Options",
+        "value": "nosniff",
+        "description": "Can be used to opt out of MIME type sniffing a response away from the declared content-type.",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Can be used to opt out of MIME type sniffing a response away from the declared content-type."
+    },
+    {
+        "key": "Alt-Svc",
+        "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+        "description": "Custom header",
+        "enabled": true,
+        "disableEdit": true,
+        "info": "Custom header"
+    }
+]
